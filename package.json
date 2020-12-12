@@ -1,0 +1,13 @@
+{
+  "name": "davidstenstroem.github.io",
+  "version": "1.0.0",
+  "description": "Personal site for David Stenstroem",
+  "main": "index.js",
+  "repository": "git@github.com:DavidStenstroem/davidstenstroem.github.io.git",
+  "author": "David Stenstrøm <david@stenstroem.dk>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "4.1.3"
+  }
+}
