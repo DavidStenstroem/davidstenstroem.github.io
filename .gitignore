@@ -1,5 +1,6 @@
 node_modules
 .next
-out
 *error.log
 .DS_Store
+out/*
+!out/.nojekyll
