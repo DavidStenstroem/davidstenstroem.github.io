@@ -47,7 +47,7 @@ const Home: React.FunctionComponent = () => (
     </p>
     <br />
     <StyledLink href="mailto:david@stenstroem.dk">Email</StyledLink>
-    <StyledLink href="https://github.com/DavidStenstroem">Github</StyledLink>
+    <StyledLink href="https://github.com/davidstenstroem">Github</StyledLink>
     <StyledLink href="https://linkedin.com/in/david-stenstroem">LinkedIn</StyledLink>
   </StyledWrapper>
 )
